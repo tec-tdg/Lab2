@@ -18,7 +18,7 @@ with data select segments <=
   "1001100" when X"4",
   "0100100" when X"5",
   "0100000" when X"6",
-  "0001110" when X"7",
+  "0001111" when X"7",
   "0000000" when X"8",
   "0000100" when X"9",
   "0001000" when "1010",
